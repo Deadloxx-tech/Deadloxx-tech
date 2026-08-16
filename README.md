@@ -214,22 +214,33 @@ Portfolio   : https://papun-portfolio.vercel.app/
   3. **Robust Data Layer:** Clean ORM mapping, indexed database queries, and decoupled data models.
 </details>
 
-<details>
-  <summary>📬 <strong>Let's Connect & Collaborate</strong> (Click to Expand)</summary>
-  <br/>
+<br/>
 
-  - **Email:** [papunpatra2981@gmail.com](mailto:papunpatra2981@gmail.com)
-  - **Live Portfolio:** [papun-portfolio.vercel.app](https://papun-portfolio.vercel.app/)
-  - **GitHub:** [@Deadloxx-tech](https://github.com/Deadloxx-tech)
-  - Open for collaborations, freelance opportunities, full-time engineering roles, and open-source contributions!
-</details>
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to internships, full-time roles, freelance work, and open-source collaboration.
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Deadloxx-tech">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
-  </a>
-  <br/><br/>
-  <sub>⚡ Built with passion & precision by <strong>M. Papun Patra (@Deadloxx-tech)</strong> • <i>"I create my own world"</i> ⚡</sub>
+<p align="center">
+  <a href="mailto:papunpatra2981@gmail.com"><img src="https://img.shields.io/badge/Email-papunpatra2981%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://papun-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-papun--portfolio.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<a href="https://github.com/Deadloxx-tech">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
+</a>
+
+<br/><br/>
+
+<sub>⚡ Built with passion & precision by <strong>M. Papun Patra (@Deadloxx-tech)</strong> · <i>"I create my own world"</i> ⚡</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
+
 </div>
